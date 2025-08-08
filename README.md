@@ -26,7 +26,7 @@ This is a simple and responsive **Job Application Form** built with HTML and CSS
 > **Note:** This form currently does not have backend integration. The `action` attribute in the form is empty, so submission will not go anywhere unless connected to a backend service.
 
 ## 📁 File Structure
-📁 your-project-folder/ <br>
+| <br>
 ├── index.html  #Main HTML form <br>
 ├── style.css  #CSS styles (linked in HTML) <br>
 └── README.md  #Project documentation <br>
