@@ -27,9 +27,9 @@ This is a simple and responsive **Job Application Form** built with HTML and CSS
 
 ## 📁 File Structure
 📁 your-project-folder/ <br>
-├── index.html # Main HTML form <br>
-├── style.css # CSS styles (linked in HTML) <br>
-└── README.md # Project documentation <br>
+├── index.html  #Main HTML form <br>
+├── style.css  #CSS styles (linked in HTML) <br>
+└── README.md  #Project documentation <br>
 
 ## 💡 Customization
 - To change available job roles, update the `<option>` values inside the `<select>` tag in the HTML.
